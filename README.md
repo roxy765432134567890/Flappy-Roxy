@@ -1,2 +1,4 @@
-# Flappy-Roxy
-This is a flappy bird clone fully made by roxy132
+# This was coded fully by roxy132 with the help of heeps and the coding Den discord server
+
+
+# don't skid u little SKID!
